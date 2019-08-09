@@ -13,3 +13,6 @@ If you want to add new data, add new row in csv file
 !!!only two columns are required!!!
 1. Category (product category name)
 1. Name (name of product)
+
+# Run tests
+```python -m unittest discover -s test```
